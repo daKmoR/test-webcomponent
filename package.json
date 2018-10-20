@@ -1,0 +1,10 @@
+{
+  "name": "test-webcomponent",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "http-server"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
